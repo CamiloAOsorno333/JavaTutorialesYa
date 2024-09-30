@@ -77,6 +77,6 @@ public class While {
         longitud esté comprendida en el rango de 1,20 y 1,30 son aptas. Imprimir por pantalla
         la cantidad de piezas aptas que hay en el lote.*/
 
-        
+
     }
 }
