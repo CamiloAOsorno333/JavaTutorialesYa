@@ -1,6 +1,5 @@
-package Lecciones;
+package Lecciones.Condicionales;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class CondicionalesAnidadas {

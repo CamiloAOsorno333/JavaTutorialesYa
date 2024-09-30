@@ -1,4 +1,4 @@
-package Lecciones;
+package Lecciones.Condicionales;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Lecciones;
+package Lecciones.While;
 
 import java.util.Scanner;
 

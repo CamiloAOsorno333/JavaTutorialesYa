@@ -1,0 +1,34 @@
+package Lecciones.While;
+
+public class ProblemasWhile {
+    public static void main(String[] args) {
+
+        /*1. Escribir un programa que solicite ingresar 10 notas de alumnos y nos informe cuántos tienen notas mayores o iguales a 7 y cuántos menores.*/
+
+        /*2. Se ingresan un conjunto de n alturas de personas por teclado. Mostrar la altura promedio de las personas.*/
+
+        /*3. En una empresa trabajan n empleados cuyos sueldos oscilan entre $100 y $500, realizar un programa que lea los sueldos que cobra cada empleado
+        e informe cuántos empleados cobran entre $100 y $300 y cuántos cobran más de $300. Además el programa deberá informar el importe que gasta la empresa
+        en sueldos al personal.*/
+
+        /*4. Realizar un programa que imprima 25 términos de la serie 11 - 22 - 33 - 44, etc. (No se ingresan valores por teclado)*/
+
+        /*5. Mostrar los múltiplos de 8 hasta el valor 500. Debe aparecer en pantalla 8 - 16 - 24, etc.*/
+
+        /*6. Realizar un programa que permita cargar dos listas de 15 valores cada una. Informar con un mensaje cual de las
+        dos listas tiene un valor acumulado mayor (mensajes "Lista 1 mayor", "Lista 2 mayor", "Listas iguales")
+        Tener en cuenta que puede haber dos o más estructuras repetitivas en un algoritmo.*/
+
+        /*7. Desarrollar un programa que permita cargar n números enteros y luego nos informe cuántos valores fueron pares y cuántos impares.
+        Emplear el operador % en la condición de la estructura condicional:
+            if (valor%2==0)         //Si el if da verdadero luego es par.*/
+
+
+
+
+
+
+        
+            }
+
+}
