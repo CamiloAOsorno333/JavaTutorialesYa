@@ -143,11 +143,11 @@ public class ProblemasWhile {
         }
         if (totlista1 > totlista2){
             System.out.println("La lista 1 contiene un mayor valor");
-        }if (totlista2 > totlista1){
-            System.out.println("La lista 2 contiene un mayor valor");
-        }else{
-            System.out.println("listas iguales ");
-        }
+            }if (totlista2 > totlista1){
+                System.out.println("La lista 2 contiene un mayor valor");
+            }else{
+                System.out.println("listas iguales ");
+            }
 
 
 
@@ -159,11 +159,11 @@ public class ProblemasWhile {
 
         System.out.println("\n" + "Inicio del septimo y último caso del While " + "\n" + "🐱‍👓");
 
-        int p,numeros,n3, impares,pares;
+        int p,numeros,n3, impares,pares,valor;
         p=1;
-        n3=0;
         impares=0;
         pares=0;
+        valor=0;
 
         System.out.println("Ingrese la cantidad de números que pretende analizar = ");
         numeros=teclado.nextInt();
