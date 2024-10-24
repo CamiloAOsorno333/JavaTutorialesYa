@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=Confeccionar\ una\ clase\ que\ permita\ carga\ el\ nombre\ y\ la\ edad\ de\ una\ persona.\ Mostrar\ los\ datos\ cargados.\ \r\nImprimir\ un\ mensaje\ si\ es\ mayor\ de\ edad\ (edad>\=18)
+comment1.params=
+comment1.target=void\ inicializar()
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=
+comment3.target=void\ esMayorEdad()
+comment4.params=ar
+comment4.target=void\ main(java.lang.String[])
+numComments=5
