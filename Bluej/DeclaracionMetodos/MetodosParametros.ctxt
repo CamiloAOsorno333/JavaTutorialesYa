@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MetodosParametros
+comment0.text=\r\n\ Confeccionar\ una\ clase\ que\ permita\ ingresar\ valores\ enteros\ por\ teclado\ y\ \r\n\ nos\ muestre\ la\ tabla\ de\ multiplicar\ de\ dicho\ valor.\ \r\n\ Finalizar\ el\ programa\ al\ ingresar\ el\ -1.\r\n
+comment1.params=
+comment1.target=void\ cargarValor()
+comment2.params=v
+comment2.target=void\ calcular(int)
+comment3.params=ar
+comment3.target=void\ main(java.lang.String[])
+numComments=4

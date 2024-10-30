@@ -1,4 +1,12 @@
 #BlueJ class context
 comment0.target=Triangulo
 comment0.text=Desarrollar\ un\ programa\ que\ cargue\ los\ lados\ de\ un\ tri\u00E1ngulo\ e\ implemente\ \r\nlos\ siguientes\ m\u00E9todos\:\ inicializar\ los\ atributos,\ imprimir\ el\ valor\ del\ \r\nlado\ mayor\ y\ otro\ m\u00E9todo\ que\ muestre\ si\ es\ equil\u00E1tero\ o\ no.
-numComments=1
+comment1.params=
+comment1.target=void\ inicializar()
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=
+comment3.target=void\ trianguloEquilatero()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlanoCarteciano
+comment0.text=Desarrollar\ una\ clase\ que\ represente\ un\ punto\ en\ el\ plano\ y\ tenga\ los\ siguientes\ \r\n\ m\u00E9todos\:\ cargar\ los\ valores\ de\ x\ e\ y,\ imprimir\ en\ que\ cuadrante\ se\ encuentra\ dicho\ \r\n\ punto\ (concepto\ matem\u00E1tico,\ primer\ cuadrante\ si\ x\ e\ y\ \r\nson\ positivas,\ si\ x<0\ e\ y>0\ \ *\ segundo\ cuadrante,\ etc.)
+comment1.params=
+comment1.target=void\ inicializar()
+comment2.params=
+comment2.target=void\ cuadrante()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Impuestos
+comment0.text=Confeccionar\ una\ clase\ que\ represente\ un\ empleado.\ Definir\ como\ atributos\ su\ nombre\ \r\n\ y\ su\ sueldo.\ Confeccionar\ los\ m\u00E9todos\ para\ la\ carga,\ otro\ para\ imprimir\ sus\ datos\ \r\n\ y\ por\ \u00FAltimo\ uno\ que\ imprima\ un\ mensaje\ si\ debe\ pagar\ impuestos\ \r\n(si\ el\ sueldo\ supera\ a\ 3000)
+comment1.params=
+comment1.target=void\ inicializar()
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=
+comment3.target=void\ calculo()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

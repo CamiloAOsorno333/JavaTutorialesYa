@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Operaciones
+comment0.text=\r\n\ Implementar\ la\ clase\ operaciones.\ Se\ deben\ cargar\ dos\ valores\ enteros,\ \r\n\ calcular\ su\ suma,\ resta,\ multiplicaci\u00F3n\ y\ divisi\u00F3n,\ cada\ una\ en\ un\ m\u00E9todo,\ \r\n\ imprimir\ dichos\ resultados.\r\n
+comment1.params=
+comment1.target=void\ inicializar()
+comment2.params=
+comment2.target=void\ sumar()
+comment3.params=
+comment3.target=void\ restar()
+comment4.params=
+comment4.target=void\ multiplicar()
+comment5.params=
+comment5.target=void\ dividir()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
