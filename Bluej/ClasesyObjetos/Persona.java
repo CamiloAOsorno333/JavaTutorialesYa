@@ -1,42 +1,41 @@
 import java.util.Scanner;
 
-/*Confeccionar una clase que permita carga el nombre y la edad de una persona. Mostrar los datos cargados. 
-        * Imprimir un mensaje si es mayor de edad (edad>=18)*/ 
-       
 
 public class Persona{
-    
-    private Scanner teclado; 
-    private int edad;
+    //Atributos
+    private Scanner teclado;
     private String nombre;
-    
+    private int edad;
+
+    //Metodo Iniciarlizar
     public void inicializar(){
-        teclado=new Scanner(System.in);
-        System.out.println("Ingrese por favor el nombre= ");
-        nombre=teclado.next();
-        System.out.println("Por favor ingrese la edad = ");
+        teclado= new Scanner(System.in);
+        System.out.println("Por favor ingrese el nombre");
+        nombre= teclado.next();
+        System.out.println("Por favor ingres la edad");
         edad=teclado.nextInt();
-        }
-        
+    }
+
+    //Metodo Imprimir
     public void imprimir(){
-        System.out.println("Nombre= " + nombre);
-        System.out.println("Edad = " + edad);
+        System.out.println(nombre);
+        System.out.println(edad);
     }
-    
-    public void esMayorEdad(){
-        if(edad>18){
-            System.out.println(nombre + " " + "Es mayor de edad");
+
+    //Metodo edad
+    public void edadMayor(){
+        if(edad >=18){
+            System.out.println(nombre +  " " + "Se trata de una persona mayor de edad");
         }else{
-            System.out.println(nombre + " " + "No es mayor de edad");
+            System.out.println(nombre +  " " + "Se trata de una persona menor de edad");
         }
     }
-    
-    public static void main(String[] ar){
-        Persona persona1;
-        persona1= new Persona();
+
+    //Main
+    public static void main(String[] args) {
+        Persona persona1= new Persona();
         persona1.inicializar();
         persona1.imprimir();
-        persona1.esMayorEdad();
+        persona1.edadMayor();
     }
-    
 }
