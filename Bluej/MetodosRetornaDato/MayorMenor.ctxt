@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MayorMenor
+comment0.text=\r\n\ Confeccionar\ una\ clase\ que\ permita\ ingresar\ tres\ valores\ por\ teclado.\ \r\n\ Luego\ mostrar\ el\ mayor\ y\ el\ menor.\r\n
+comment1.params=
+comment1.target=void\ inicializar()
+comment2.params=v1\ v2\ v3
+comment2.target=int\ calcularMayor(int,\ int,\ int)
+comment3.params=v1\ v2\ v3
+comment3.target=int\ calcularMenor(int,\ int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -19,7 +19,7 @@ public class MetodosParametros{
         } while (valor!=-1);
     }
     
-    public void calcular(int v) {
+    public void calcular(int v) { 
         for(int f=v;f<=v*10;f=f+v) {
             System.out.print(f+"-");
         }
