@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Vector2
+comment0.text=\r\n\ Definir\ un\ vector\ de\ 5\ componentes\ de\ tipo\ float\ que\ representen\ las\ alturas\ de\ 5\ personas.\r\nObtener\ el\ promedio\ de\ las\ mismas.\ Contar\ cu\u00E1ntas\ personas\ son\ m\u00E1s\ altas\ que\ el\ promedio\ y\ cu\u00E1ntas\ m\u00E1s\ bajas.\r\n
+comment1.params=
+comment1.target=void\ inicializar()
+comment2.params=
+comment2.target=void\ promedio()
+comment3.params=
+comment3.target=void\ altasBajas()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
