@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EjeVector1
+comment0.text=\r\n\ Desarrollar\ un\ programa\ que\ permita\ ingresar\ un\ vector\ de\ 8\ elementos,\ e\ informe\:\r\nEl\ valor\ acumulado\ de\ todos\ los\ elementos\ del\ vector.\r\nEl\ valor\ acumulado\ de\ los\ elementos\ del\ vector\ que\ sean\ mayores\ a\ 36.\r\nCantidad\ de\ valores\ mayores\ a\ 50.\r\n
+comment1.params=
+comment1.target=void\ inicializar()
+comment2.params=
+comment2.target=void\ calcular()
+comment3.params=
+comment3.target=void\ mayores36()
+comment4.params=
+comment4.target=void\ mayores50()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

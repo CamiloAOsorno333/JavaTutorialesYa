@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EjeVector2
+comment0.text=\r\nRealizar\ un\ programa\ que\ pida\ la\ carga\ de\ dos\ vectores\ num\u00E9ricos\ enteros\ de\ 4\ elementos.\ Obtener\ la\ suma\ de\ los\ dos\ vectores,\ \r\ndicho\ resultado\ guardarlo\ en\ un\ tercer\ vector\ del\ mismo\ tama\u00F1o.\ Sumar\ componente\ a\ componente.\r\n
+comment1.params=
+comment1.target=void\ v1()
+comment2.params=
+comment2.target=void\ v2()
+comment3.params=
+comment3.target=void\ suma()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EjeVector3
+comment0.text=\r\n\ Se\ tienen\ las\ notas\ del\ primer\ parcial\ de\ los\ alumnos\ de\ dos\ cursos,\ el\ curso\ A\ y\ el\ curso\ B,\ cada\ curso\ cuenta\ con\ 5\ alumnos.\r\nRealizar\ un\ programa\ que\ muestre\ el\ curso\ que\ obtuvo\ el\ mayor\ promedio\ general.\r\n
+comment1.params=
+comment1.target=void\ cursoA()
+comment2.params=
+comment2.target=void\ cursoB()
+comment3.params=
+comment3.target=void\ calculo()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EjeVector4
+comment0.text=\r\n\ Cargar\ un\ vector\ de\ 10\ elementos\ y\ verificar\ posteriormente\ si\ el\ mismo\ est\u00E1\ ordenado\ de\ menor\ a\ mayor.\r\n
+comment1.params=
+comment1.target=void\ carga()
+comment2.params=
+comment2.target=void\ calculo()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
