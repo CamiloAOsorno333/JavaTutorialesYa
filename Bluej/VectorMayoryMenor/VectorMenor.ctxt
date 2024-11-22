@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=VectorMenor
+comment0.text=\r\nCargar\ un\ vector\ de\ n\ elementos.\ imprimir\ el\ menor\ y\ un\ mensaje\ si\ se\ repite\ dentro\ del\ vector.\r\n
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ menor()
+comment3.params=
+comment3.target=void\ repetido()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=public\ void\ imprimir(){\r\n\ \ \ \ \ \ \ \ for(int\ x\=0;\ x<elementos.length;x++)\ \r\n\ \ \ \ \ \ \ \ System.out.println("El\ elemento\ Nro.\ "\ +\ x);\r\n}
+numComments=5

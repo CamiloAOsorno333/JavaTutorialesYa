@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=VectMyM1
+comment0.text=\r\n\ Confeccionar\ un\ programa\ que\ permita\ cargar\ los\ nombres\ de\ 5\ operarios\ y\ sus\ sueldos\ respectivos.\ Mostrar\ el\ sueldo\ mayor\ \r\n\ y\ el\ nombre\ del\ operario.\r\n
+comment1.params=
+comment1.target=void\ inicializar()
+comment2.params=
+comment2.target=void\ mayor()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
