@@ -39,22 +39,17 @@ public class VectorMenor{
             }
           }
           if(cant>1){
-                System.out.println("Existe un elemento repetido en el vector");
+                System.out.println("El elemento menor se repite en el vector");
             }else{
-                System.out.println("No existen elementos repetidos en el vector");
+                System.out.println("El elemento menor no se en el vector");
             }
         }
         
-     /*public void imprimir(){
-        for(int x=0; x<elementos.length;x++) 
-        System.out.println("El elemento Nro. " + x);
-        }*/
-        
+           
      public static void main(String[] args){
         VectorMenor pv= new VectorMenor();
         pv.cargar();
         pv.menor();
-        //pv.imprimir();
         pv.repetido();
         }
 }
