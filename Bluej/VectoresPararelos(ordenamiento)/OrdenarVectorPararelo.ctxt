@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=OrdenarVectorPararelo
+comment0.text=\r\n\ Confeccionar\ un\ programa\ que\ permita\ cargar\ los\ nombres\ de\ 5\ alumnos\ y\ sus\ notas\ respectivas.\ Luego\ ordenar\ las\ notas\ de\ mayor\ \r\n\ a\ menor.\ Imprimir\ las\ notas\ y\ los\ nombres\ de\ los\ alumnos.\r\n
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ ordenar()
+comment3.params=
+comment3.target=void\ imprimir()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EjerOrdVector
+comment0.text=\r\n\ Cargar\ un\ vector\ de\ n\ elementos\ de\ tipo\ entero.\ Ordenar\ posteriormente\ el\ vector.\r\n
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ ordenarMayorMenor()
+comment3.params=
+comment3.target=void\ ordenarMenorMayor()
+comment4.params=
+comment4.target=void\ imprimirMayorMenor()
+comment5.params=
+comment5.target=void\ imprimirMenorMayor()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
