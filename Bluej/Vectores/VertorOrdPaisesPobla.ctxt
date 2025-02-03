@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=VertorOrdPaisesPobla
+comment0.text=\r\n\ Cargar\ en\ un\ vector\ los\ nombres\ de\ 5\ paises\ y\ en\ otro\ vector\ paralelo\ la\ cantidad\ de\ habitantes\ del\ mismo.\r\n\ Ordenar\ alfab\u00E9ticamente\ e\ imprimir\ los\ resultados.\ Por\ \u00FAltimo\ ordenar\ con\ respecto\ a\ la\ cantidad\ de\ habitantes\r\n\ (de\ mayor\ a\ menor)\ e\ imprimir\ nuevamente.\r\n
+comment1.params=
+comment1.target=void\ ingresarPais()
+comment2.params=
+comment2.target=void\ recorridoPoblacion()
+comment3.params=
+comment3.target=void\ ordenarPais()
+comment4.params=
+comment4.target=void\ imprimir()
+comment5.params=ar
+comment5.target=void\ main(java.lang.String[])
+numComments=6

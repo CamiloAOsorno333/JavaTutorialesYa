@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MatrizDiagonal
+comment0.text=\r\n\ Crear\ y\ cargar\ una\ matriz\ de\ 4\ filas\ por\ 4\ columnas.\ Imprimir\ la\ diagonal\ principal.\r\n
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=
+comment3.target=void\ imprimirII()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
