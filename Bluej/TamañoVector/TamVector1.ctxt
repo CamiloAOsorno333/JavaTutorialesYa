@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TamVector1
+comment0.text=\r\n\ Se\ desea\ almacenar\ los\ sueldos\ de\ operarios.\ Cuando\ se\ ejecuta\ el\ programa\ se\ debe\ pedir\ la\ cantidad\ de\ sueldos\ a\ ingresar.\ \r\n\ Luego\ crear\ un\ vector\ con\ dicho\ tama\u00F1o.\r\n
+comment1.params=
+comment1.target=void\ iniciar()
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TamVector2
+comment0.text=\r\n\ Desarrollar\ un\ programa\ que\ permita\ ingresar\ un\ vector\ de\ n\ elementos,\ \r\n\ ingresar\ n\ por\ teclado.\ Luego\ imprimir\ la\ suma\ de\ todos\ sus\ elementos\r\n
+comment1.params=
+comment1.target=void\ inicializar()
+comment2.params=
+comment2.target=void\ suma()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=public\ void\ imprimir(){\r\n\ \ \ \ \ \ \ \ System.out.println("La\ suma\ de\ todos\ los\ elementos\ es\=\ "\ +\ suma);\r\n}
+numComments=4

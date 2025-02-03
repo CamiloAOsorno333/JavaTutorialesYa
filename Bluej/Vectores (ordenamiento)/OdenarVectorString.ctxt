@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=OdenarVectorString
+comment0.text=\r\n\ Definir\ un\ vector\ donde\ almacenar\ los\ nombres\ de\ 5\ paises.\ Confeccionar\ el\ algoritmo\ de\ ordenamiento\ alfab\u00E9tico.\r\n
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ ordenar()
+comment3.params=
+comment3.target=void\ imprimir()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

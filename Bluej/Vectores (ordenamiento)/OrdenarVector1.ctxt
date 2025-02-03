@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=OrdenarVector1
+comment0.text=\r\nSe\ debe\ crear\ un\ vector\ donde\ almacenar\ 5\ sueldos.\ Ordenar\ el\ vector\ sueldos\ de\ menor\ a\ mayor.\r\n
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ ordenar()
+comment3.params=
+comment3.target=void\ imprimir()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
