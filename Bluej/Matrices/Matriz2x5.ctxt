@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Matriz2x5
+comment0.text=\r\n\ Crear\ una\ matriz\ de\ 2\ filas\ y\ 5\ columnas.\ Realizar\ la\ carga\ de\ componentes\ por\ columna\ (es\ decir\ primero\ ingresar\ toda\ \r\n\ la\ primer\ columna,\ luego\ la\ segunda\ columna\ y\ as\u00ED\ sucesivamente)\r\n
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

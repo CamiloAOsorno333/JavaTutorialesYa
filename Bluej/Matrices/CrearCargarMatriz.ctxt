@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CrearCargarMatriz
+comment0.text=\r\n\ Crear\ y\ cargar\ una\ matriz\ de\ 3\ filas\ por\ 4\ columnas.\ Imprimir\ la\ primer\ fila.\ Imprimir\ la\ \u00FAltima\ fila\ \r\n\ e\ imprimir\ la\ primer\ columna.\r\n
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ imprimirPfila()
+comment3.params=
+comment3.target=void\ imprimirUfila()
+comment4.params=
+comment4.target=void\ imprimirPcolumna()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
