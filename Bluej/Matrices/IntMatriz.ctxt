@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=IntMatriz
+comment0.text=\ Crear\ una\ matriz\ de\ n\ *\ m\ filas\ (cargar\ n\ y\ m\ por\ teclado)\ Intercambiar\ la\ primer\ fila\r\ncon\ la\ segunda.\ Imprimir\ luego\ la\ matriz.
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ intercambiar()
+comment3.params=
+comment3.target=void\ imprimir()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

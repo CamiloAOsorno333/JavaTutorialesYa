@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MatV
+comment0.text=\r\n\ Crear\ una\ matriz\ de\ n\ *\ m\ filas\ (cargar\ n\ y\ m\ por\ teclado)\ Imprimir\ los\ cuatro\ valores\ que\ se\ encuentran\ en\ los\ v\u00E9rtices\ \r\n\ de\ la\ misma\ (mat[0][0]\ etc.)\r\n
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ imprimirV()
+comment3.params=
+comment3.target=void\ imprimir()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
