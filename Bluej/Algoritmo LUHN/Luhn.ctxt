@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Luhn
+comment0.text=\r\n\ Desarrolar\ un\ programa\ que\ dado\ un\ vector\ \r\n\ -Invertir\ los\ componentes\ de\ vector\r\n\ -Multiplicar\ los\ componentes\ del\ vector\ por\ 2\ cada\ segundo\ digito\ del\ vector\r\n\ -Si\ el\ producto\ de\ alguno\ de\ estos\ es\ mayor\ a\ 9,\ se\ debe\ sumar\ sus\ digitos\r\n\ -Sumar\ todos\ los\ digitos\ y\ si\ el\ resultado\ es\ multiplo\ de\ 10\ imprimir\ es\ correcto\r\n
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=
+comment3.target=void\ invertir()
+comment4.params=
+comment4.target=void\ multiplicar()
+comment5.params=
+comment5.target=void\ separar()
+comment6.params=
+comment6.target=void\ convString()
+comment7.params=
+comment7.target=void\ dividirDig()
+comment8.params=ar
+comment8.target=void\ main(java.lang.String[])
+numComments=9

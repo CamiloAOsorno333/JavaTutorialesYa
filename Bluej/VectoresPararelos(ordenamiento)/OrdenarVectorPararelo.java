@@ -43,7 +43,7 @@ public class OrdenarVectorPararelo{
     
     public void imprimir(){
         for(int f=0; f<notas.length;f++){
-            System.out.println("Alumno " + nombres[f] + " - " + "Nota= " + notas[f]);
+            System.out.println("Alumno.java " + nombres[f] + " - " + "Nota= " + notas[f]);
         }
     }
     

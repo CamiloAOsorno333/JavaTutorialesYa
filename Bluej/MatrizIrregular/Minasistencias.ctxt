@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Minasistencias
+comment0.text=\r\n\ Confeccionar\ una\ clase\ para\ administrar\ los\ d\u00EDas\ que\ han\ faltado\ los\ 3\ empleados\ de\ una\ empresa.\r\nDefinir\ un\ vector\ de\ 3\ elementos\ de\ tipo\ String\ para\ cargar\ los\ nombres\ y\ una\ matriz\ irregular\ para\ cargar\ los\ d\u00EDas\ que\ han\ \r\nfaltado\ cada\ empleado\ (cargar\ el\ n\u00FAmero\ de\ d\u00EDa\ que\ falt\u00F3)\r\nCada\ fila\ de\ la\ matriz\ representan\ los\ d\u00EDas\ de\ cada\ empleado.\r\nMostrar\ los\ empleados\ con\ la\ cantidad\ de\ inasistencias.\r\nCu\u00E1l\ empleado\ falt\u00F3\ menos\ d\u00EDas.\r\n
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=
+comment3.target=void\ MenosFaltas()
+comment4.params=ar
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Mascendente
+comment0.text=\r\n\ Confeccionar\ una\ clase\ para\ administrar\ una\ matriz\ irregular\ de\ 5\ filas\ y\ 1\ columna\ la\ primer\ fila,\ 2\ columnas\ la\ segunda\ fila\ \r\n\ y\ as\u00ED\ sucesivamente\ hasta\ 5\ columnas\ la\ \u00FAltima\ fila\ (crearla\ sin\ la\ intervenci\u00F3n\ del\ operador)\r\nRealizar\ la\ carga\ por\ teclado\ e\ imprimir\ posteriormente.\r\n
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=ar
+comment3.target=void\ main(java.lang.String[])
+numComments=4

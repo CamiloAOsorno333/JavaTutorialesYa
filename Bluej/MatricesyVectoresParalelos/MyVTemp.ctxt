@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyVTemp
+comment0.text=\ Se\ desea\ saber\ la\ temperatura\ media\ trimestral\ de\ cuatro\ paises.\ Para\ ello\ se\ tiene\ como\ dato\r\nlas\ temperaturas\ medias\ mensuales\ de\ dichos\ paises.\r\nSe\ debe\ ingresar\ el\ nombre\ del\ pa\u00EDs\ y\ seguidamente\ las\ tres\ temperaturas\ medias\ mensuales.\r\nSeleccionar\ las\ estructuras\ de\ datos\ adecuadas\ para\ el\ almacenamiento\ de\ los\ datos\ en\ memoria.\r\na\ -\ Cargar\ por\ teclado\ los\ nombres\ de\ los\ paises\ y\ las\ temperaturas\ medias\ mensuales.\r\nb\ -\ Imprimir\ los\ nombres\ de\ las\ paises\ y\ las\ temperaturas\ medias\ mensuales\ de\ las\ mismas.\r\nc\ -\ Calcular\ la\ temperatura\ media\ trimestral\ de\ cada\ pa\u00EDs.\r\nc\ -\ Imprimr\ los\ nombres\ de\ los\ paises\ y\ las\ temperaturas\ medias\ trimestrales.\r\nb\ -\ Imprimir\ el\ nombre\ del\ pais\ con\ la\ temperatura\ media\ trimestral\ mayor.
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ impTem()
+comment3.params=
+comment3.target=void\ media()
+comment4.params=
+comment4.target=void\ imprmTM()
+comment5.params=
+comment5.target=void\ mayorTemp()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

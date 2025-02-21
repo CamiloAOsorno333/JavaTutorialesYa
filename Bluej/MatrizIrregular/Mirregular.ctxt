@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Mirregular
+comment0.text=\r\n\ Confeccionaremos\ un\ programa\ que\ permita\ crear\ una\ matriz\ irregular\ y\ luego\ imprimir\ la\ matriz\ en\ forma\ completa.\r\n
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=
+comment3.target=void\ main()
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyVsueldos
+comment0.text=Se\ tiene\ la\ siguiente\ informaci\u00F3n\:\r\n\u00B7\ Nombres\ de\ 4\ empleados.\r\n\u00B7\ Ingresos\ en\ concepto\ de\ sueldo,\ cobrado\ por\ cada\ empleado,\ en\ los\ \u00FAltimos\ 3\ meses.\r\nConfeccionar\ el\ programa\ para\:\r\n\r\na)\ Realizar\ la\ carga\ de\ la\ informaci\u00F3n\ mencionada.\r\nb)\ Generar\ un\ vector\ que\ contenga\ el\ ingreso\ acumulado\ en\ sueldos\ en\ los\ \u00FAltimos\ 3\ meses\ para\ cada\ empleado.\r\nc)\ Mostrar\ por\ pantalla\ el\ total\ pagado\ en\ sueldos\ a\ todos\ los\ empleados\ en\ los\ \u00FAltimos\ 3\ meses\r\nd)\ Obtener\ el\ nombre\ del\ empleado\ que\ tuvo\ el\ mayor\ ingreso\ acumulado
+comment1.params=
+comment1.target=void\ cargar()
+comment2.params=
+comment2.target=void\ totalSueldos()
+comment3.params=
+comment3.target=void\ impTpagado()
+comment4.params=
+comment4.target=void\ empMacumulado()
+comment5.params=
+comment5.target=void\ sueldoM()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
