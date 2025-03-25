@@ -2,13 +2,13 @@ package Lecciones.Swing;
 
 import javax.swing.*;
 
-public class JLabel extends JFrame {
+public class Formulario extends JFrame {
 
     private JLabel label1,label2,label3;
 
-    public JLabel(){
+    public Formulario(){
         setLayout(null);
-        label1=new JLabel("Sistema de Facturación.");
+        label1= new JLabel("Sistema de Facturación.");
         label1.setBounds(10,20,300,30);
         add(label1);
         label2= new JLabel("Version 1.0");
@@ -17,7 +17,7 @@ public class JLabel extends JFrame {
     }
 
     public static void main(String[] args) {
-        JLabel jl= new JLabel();
+        Formulario jl= new Formulario();
         jl.setBounds(0,0,300,200);
         jl.setResizable(false);
         jl.setVisible(true);
