@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class VertorOrdPaisesPobla {
+public class Paises {
     private Scanner teclado;
     private String[] vectorPais;
     private int[] vectorPoblacion;
 
-    public VertorOrdPaisesPobla() {
+    public Paises() {
     }
 
     public void ingresarPais() {
@@ -71,7 +71,7 @@ public class VertorOrdPaisesPobla {
     }
 
     public static void main(String[] ar) {
-        VertorOrdPaisesPobla pv = new VertorOrdPaisesPobla();
+        Paises pv = new Paises();
         pv.ingresarPais();
         pv.ingresarPoblacion();
         System.out.println("Los paises escogidos son= ");
